@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "roseliine#1621",
+        "version": "1.0.0",
+        "name": " de_mairan's_nebula"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -1644324,
+        "background_secondary": -2039086,
+        "input_background": -2499386,
+        "statusbar": -13231051,
+        "accent": -15429522,
+        "mention_highlight": 1068126890,
+        "active_channel": 1269453482
+    },
+    "colors": {
+        "primary_700": -1644324,
+        "primary_dark_800": -2039086,
+        "primary_dark_100": 2499386,
+        "uikit_btn_bg_color_selector_red": -15429522
+    },
+    "drawable_tints": {
+        "drawable_button_grey": 1688883882,
+        "drawable_button_red": 1688883882,
+        "drawable_voice_indicator_speaking": -5614934
+    },
+    "raws": {}
+}
